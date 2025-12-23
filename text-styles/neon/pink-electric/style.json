@@ -1,0 +1,25 @@
+{
+  "style_id": "neon_pink_electric_01",
+  "display_name": "Pink Electric",
+  "category": "neon",
+  "description": "Hot pink and cyan neon with sharp electric glow and subtle jitter",
+  "stroke_type": "sharp_neon",
+  "glow_profile": {
+    "intensity": "very_high",
+    "spread": "medium",
+    "edge_softness": "hard"
+  },
+  "color_rules": {
+    "primary_colors": ["hot_pink", "cyan"],
+    "allow_user_override": true
+  },
+  "text_behavior": {
+    "distortion": "light_jitter",
+    "flicker": "subtle"
+  },
+  "layout_rules": {
+    "preferred_alignment": "center",
+    "thumbnail_safe": true
+  },
+  "reference_images": []
+}
