@@ -39,20 +39,23 @@
     "thumbnail_safe": true
   },
 
-"reference_images": [
-  {
-    "file": "ref_01.png",
-    "role": "primary_letterform",
-    "lock_strength": "very_high",
-    "affects": [
-      "stroke_shape",
-      "stroke_breaks",
-      "edge_behavior",
-      "terminal_style",
-      "letter_energy"
-    ],
-    "enforce_variation_per_letter": true
-  }
-]
+{
+  "file": "ref_01.png",
+  "role": "primary_letterform",
+  "lock_strength": "absolute",
+  "affects": [
+    "stroke_shape",
+    "stroke_breaks",
+    "edge_behavior",
+    "terminal_style"
+  ],
+  "ignore": [
+    "background",
+    "color_distribution",
+    "lighting_environment",
+    "composition"
+  ]
+}
+
 
 }
