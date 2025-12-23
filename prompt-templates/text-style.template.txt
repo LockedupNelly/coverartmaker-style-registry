@@ -19,10 +19,7 @@ STYLE DESCRIPTION:
 {DESCRIPTION}
 
 LETTERFORM INSTRUCTIONS:
-Create hand-drawn neon lettering inspired by the provided reference image(s).
-Stroke shapes, edge behavior, and motion style must closely match the reference.
-Letterforms should feel painted, energetic, and human-made.
-Avoid clean geometry or signage-style tubing.
+Hand-drawn neon lettering that must visually match the provided reference image in stroke construction, edge breakup, and motion cadence.
 
 COLOR INSTRUCTIONS:
 Use a smooth multi-color gradient flowing naturally across letters.
