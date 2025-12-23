@@ -1,3 +1,9 @@
+REFERENCE PRIORITY RULE:
+The reference image is the primary authority for letterform shape, stroke rhythm, edge behavior, and motion.
+If there is any conflict between stylistic interpretation and the reference image, the reference image MUST be followed.
+Deviation from the reference letterform structure is not allowed.
+
+
 You are generating album cover typography for professional music releases.
 
 This is a TEXT-ONLY composition focused on expressive lettering.
