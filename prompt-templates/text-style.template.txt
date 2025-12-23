@@ -3,6 +3,7 @@ The reference image is the primary authority for letterform shape, stroke rhythm
 If there is any conflict between stylistic interpretation and the reference image, the reference image MUST be followed.
 Deviation from the reference letterform structure is not allowed.
 
+Letterforms must override background aesthetics. Background elements may not simplify, smooth, or regularize stroke construction.
 
 You are generating album cover typography for professional music releases.
 
