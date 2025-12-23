@@ -3,6 +3,10 @@
   "display_name": "Rainbow Neon",
   "category": "neon",
   "description": "Multi-color neon gradient with intense glow and smooth strokes",
+  "generation_mode": "reference_led",
+  "letterform_reference_required": true,
+  "design_intent": "album_cover_typography",
+  "avoid_styles": ["neon_sign_tube", "perfect_geometry"],
   "stroke_type": "smooth_neon",
   "glow_profile": {
     "intensity": "high",
