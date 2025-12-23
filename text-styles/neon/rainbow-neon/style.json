@@ -33,5 +33,12 @@
     "thumbnail_safe": true
   },
 
-  "reference_images": ["ref_01.png"]
+  "reference_images": [
+    {
+      "file": "ref_01.png",
+      "role": "primary_letterform",
+      "lock_strength": "high",
+      "affects": ["stroke_shape", "edge_behavior", "motion_style"]
+    }
+  ]
 }
