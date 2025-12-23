@@ -35,6 +35,13 @@ The text must appear as if it was designed separately in Photoshop
 by a professional designer with 5–10 years of experience,
 using custom brushes, layered glow effects, and manual edge manipulation.
 
+MENTAL MODEL (CRITICAL):
+Treat this as a professional Photoshop workflow.
+The lettering is hand-drawn on its own layer using a pressure-sensitive brush.
+Glow is applied via duplicated layers, soft light, and screen blending.
+Edges show brush lift, overshoot, and intentional stroke breaks.
+This is NOT a font, NOT a sign, and NOT vector-clean.
+
 This is NOT physically simulated neon.
 This is artist-driven, hand-finished typography that was later placed into a scene.
 
