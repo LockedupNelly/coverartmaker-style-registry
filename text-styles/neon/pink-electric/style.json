@@ -2,13 +2,18 @@
   "style_id": "neon_pink_electric_01",
   "display_name": "Pink Electric",
   "category": "neon",
-  "description": "High-energy electric neon typography with sharp strokes and vibrant pink-cyan glow",
+  "description": "High-energy electric neon typography with jagged strokes, aggressive motion, and intense pink-cyan glow",
   "thumbnail": "thumbnail.png",
 
-  "generation_mode": "prompt_led",
-  "letterform_reference_required": false,
+  "generation_mode": "reference_led",
+  "letterform_reference_required": true,
   "design_intent": "album_cover_typography",
-  "avoid_styles": ["soft_neon", "rounded_tube"],
+  "avoid_styles": [
+    "soft_neon",
+    "rounded_tube",
+    "perfect_geometry",
+    "clean_signage"
+  ],
 
   "stroke_type": "electric_neon",
 
@@ -21,11 +26,11 @@
   "color_rules": {
     "mode": "dual_color",
     "primary_colors": ["hot_pink", "electric_cyan"],
-    "allow_user_override": true
+    "allow_user_override": false
   },
 
   "text_behavior": {
-    "distortion": "subtle_streak",
+    "distortion": "energy_streak",
     "flicker": false
   },
 
@@ -34,5 +39,17 @@
     "thumbnail_safe": true
   },
 
-  "reference_images": []
+  "reference_images": [
+    {
+      "file": "ref_01.png",
+      "role": "primary_letterform",
+      "lock_strength": "high",
+      "affects": [
+        "stroke_shape",
+        "edge_behavior",
+        "energy_style",
+        "glow_direction"
+      ]
+    }
+  ]
 }
