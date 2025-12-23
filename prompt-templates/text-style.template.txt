@@ -20,6 +20,8 @@ STYLE DESCRIPTION:
 
 LETTERFORM INSTRUCTIONS:
 Hand-drawn neon lettering that must visually match the provided reference image in stroke construction, edge breakup, and motion cadence.
+Each letter must feel individually drawn, with intentional inconsistencies in stroke width, angle, and termination.
+
 
 COLOR INSTRUCTIONS:
 Use a smooth multi-color gradient flowing naturally across letters.
