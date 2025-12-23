@@ -1,17 +1,27 @@
 REFERENCE PRIORITY RULE:
-The reference image is the primary authority for letterform shape, stroke rhythm, edge behavior, and motion.
-If there is any conflict between stylistic interpretation and the reference image, the reference image MUST be followed.
+The reference image is the primary and highest authority for letterform shape,
+stroke rhythm, edge behavior, terminal style, and motion energy.
+
+If any conflict exists between stylistic interpretation and the reference image,
+the reference image MUST be followed exactly.
+
 Deviation from the reference letterform structure is not allowed.
 
-Letterforms must override background aesthetics. Background elements may not simplify, smooth, or regularize stroke construction.
+Letterforms must override background aesthetics.
+Background elements may NOT simplify, smooth, regularize, or visually overpower
+stroke construction or edge detail.
 
 You are generating album cover typography for professional music releases.
 
-This is a TEXT-ONLY composition focused on expressive lettering.
-No additional symbols, icons, or background graphics.
+
+COMPOSITION TYPE:
+TEXT-ONLY composition focused entirely on expressive lettering.
+No additional symbols, icons, logos, or decorative background graphics.
+
 
 TEXT TO RENDER:
 "{TEXT}"
+
 
 STYLE NAME:
 {DISPLAY_NAME}
@@ -19,33 +29,75 @@ STYLE NAME:
 STYLE DESCRIPTION:
 {DESCRIPTION}
 
+
+DESIGN INTENT (CRITICAL):
+The text must appear as if it was designed separately in Photoshop
+by a professional designer with 5–10 years of experience,
+using custom brushes, layered glow effects, and manual edge manipulation.
+
+This is NOT physically simulated neon.
+This is artist-driven, hand-finished typography that was later placed into a scene.
+
+
+RENDERING PIPELINE (MANDATORY):
+1. Render raw letterforms first, prioritizing stroke shape and motion.
+2. Apply destructive post-processing:
+   - edge tearing and erosion
+   - overblown glow bloom
+   - chromatic misalignment (pink/cyan separation)
+   - intentional stroke breaks and energy streaks
+3. Final output must look hand-finished, imperfect, and expressive —
+   NOT clean, not uniform, and not physically accurate.
+
+Polished imperfections are expected.
+
+
 LETTERFORM INSTRUCTIONS:
-Hand-drawn neon lettering that must visually match the provided reference image in stroke construction, edge breakup, and motion cadence.
-Each letter must feel individually drawn, with intentional inconsistencies in stroke width, angle, and termination.
+Hand-drawn neon lettering that must visually match the provided reference image
+in stroke construction, edge breakup, terminal aggression, and motion cadence.
+
+Each letter must feel individually drawn.
+No two letters may share identical imperfections.
+
+Each letter MUST contain at least one unique, non-uniform imperfection
+that does not repeat across other letters.
 
 
 COLOR INSTRUCTIONS:
-Use a smooth multi-color gradient flowing naturally across letters.
+Use a luminous multi-color neon gradient consistent with the reference image.
 No flat colors. No monochrome output.
-Color transitions should feel organic and luminous.
+
+Color transitions must feel organic and painterly,
+not mathematically even or uniform.
+
 
 GLOW & ENERGY:
-High-intensity neon glow with wide spread.
-Glow edges should be soft, cinematic, and slightly imperfect.
-No flicker. No distortion artifacts.
+Glow should be exaggerated, imperfect, and artist-driven.
+Overblown bloom, partial clipping, and uneven glow intensity are allowed and encouraged.
+
+Glow is applied AFTER letterform rendering,
+not simulated as physically correct light emission.
+
+No flicker.
+No procedural distortion artifacts.
+
 
 LAYOUT:
 Center-aligned.
 Safe for album cover thumbnails.
-Text should feel dynamic, angled, and expressive.
+Text should feel dynamic, angled, and energetic.
 
-RESTRICTIONS:
+
+RESTRICTIONS (STRICT):
 Do NOT use perfect geometric fonts.
-Do NOT resemble neon signs, LED tubes, or storefront signage.
-Do NOT simplify stroke forms.
+Do NOT resemble neon signs, LED tubes, storefront signage, or clean typography systems.
+Do NOT smooth or regularize stroke edges.
+Do NOT prioritize physical realism over expressive design.
+Do NOT allow background lighting to influence letterform shape.
+
 
 REFERENCE IMAGES:
 {REFERENCE_IMAGES}
 
 The reference images are authoritative.
-They define stroke character, motion feel, and letterform attitude.
+They define stroke character, edge behavior, motion feel, and overall attitude.
