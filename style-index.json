@@ -1,0 +1,18 @@
+{
+  "neon": [
+    {
+      "style_id": "neon_rainbow_01",
+      "display_name": "Rainbow Neon",
+      "path": "text-styles/neon/rainbow-neon",
+      "thumbnail": "thumbnail.png",
+      "generation_mode": "reference_led"
+    },
+    {
+      "style_id": "neon_pink_electric_01",
+      "display_name": "Pink Electric",
+      "path": "text-styles/neon/pink-electric",
+      "thumbnail": "thumbnail.png",
+      "generation_mode": "prompt_led"
+    }
+  ]
+}
