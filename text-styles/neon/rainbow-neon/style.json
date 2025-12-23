@@ -2,28 +2,37 @@
   "style_id": "neon_rainbow_01",
   "display_name": "Rainbow Neon",
   "category": "neon",
-  "description": "Multi-color neon gradient with intense glow and smooth strokes",
+  "description": "Hand-drawn rainbow neon typography with smooth gradients and cinematic glow",
+  "thumbnail": "thumbnail.png",
+
   "generation_mode": "reference_led",
   "letterform_reference_required": true,
   "design_intent": "album_cover_typography",
   "avoid_styles": ["neon_sign_tube", "perfect_geometry"],
+
   "stroke_type": "smooth_neon",
+
   "glow_profile": {
     "intensity": "high",
     "spread": "wide",
     "edge_softness": "soft"
   },
+
   "color_rules": {
     "mode": "multi_gradient",
     "allow_user_override": false
   },
+
   "text_behavior": {
     "distortion": "none",
     "flicker": false
   },
+
   "layout_rules": {
     "preferred_alignment": "center",
     "thumbnail_safe": true
   },
+
   "reference_images": []
 }
+
