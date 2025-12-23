@@ -33,6 +33,5 @@
     "thumbnail_safe": true
   },
 
-  "reference_images": []
+  "reference_images": ["ref_01.png"]
 }
-
