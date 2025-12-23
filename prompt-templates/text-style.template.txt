@@ -1,0 +1,38 @@
+You are generating album cover typography.
+
+TEXT TO RENDER:
+"{TEXT}"
+
+STYLE NAME:
+{DISPLAY_NAME}
+
+STYLE DESCRIPTION:
+{DESCRIPTION}
+
+LETTERFORM INSTRUCTIONS:
+Hand-drawn neon lettering inspired by the provided reference image.
+Stroke shapes, edge behavior, and motion style must closely match the reference.
+Avoid clean geometry or signage-style tubing.
+
+COLOR INSTRUCTIONS:
+Use a smooth multi-color gradient across letters.
+No flat colors. No monochrome output.
+Glow should feel cinematic, soft-edged, and energetic.
+
+GLOW & MOTION:
+High-intensity neon glow with wide spread.
+Edges should feel painted and slightly imperfect.
+No flicker. No distortion.
+
+LAYOUT:
+Center-aligned.
+Safe for album cover thumbnails.
+Text should feel dynamic, angled, and expressive.
+
+RESTRICTIONS:
+Do NOT use perfect geometric fonts.
+Do NOT resemble neon signs or LED tubes.
+Do NOT simplify stroke forms.
+
+REFERENCE IMAGES:
+{REFERENCE_IMAGES}
